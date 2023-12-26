@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Chatfood" title="Chatfood" src="github_assets/logo.png" width="300px" />
+  <img alt="Brain Ag" title="Brain Ag" src="github_assets/logo.png" width="300px" />
 </h1>
 
 <h3 align="center">
@@ -30,8 +30,8 @@ produtores rurais, com dados pessoais e dados sobre a fazenda do produtor.
 - :green_heart: &nbsp;**[Vite](https://vitejs.dev/)** — Ferramenta para geração do ambiente de desenvolvimento Front-End, nesse caso, com React.
 - :purple_heart: &nbsp;**[Tailwind](https://tailwindcss.com/)** — Biblioteca para estilização de elementos.
 - :yellow_heart: &nbsp;**[MUI](https://mui.com/)** — Biblioteca de componentes prontos para React.
-- :blue_heart: &nbsp; **[TypeScript](https://www.typescriptlang.org/)** - Superset de JS para tipagem e melhoria de arquitetura.
-- :heart: &nbsp; **[json-server](https://github.com/typicode/json-server)** - Tecnologia para a criação de uma API REST fake.
+- :blue_heart: &nbsp;**[TypeScript](https://www.typescriptlang.org/)** - Superset de JS para tipagem e melhoria de arquitetura.
+- :heart: &nbsp;**[json-server](https://github.com/typicode/json-server)** - Tecnologia para a criação de uma API REST fake.
 
 ## Funcionamento
 
@@ -76,6 +76,8 @@ Essas são mostradas de maneira intuitiva para o usuário
 ## Ver funcionando
 
 Um vídeo simples do funcionamento da aplicação:
+
+https://github.com/LuccasPiola/brain-agriculture/assets/37879484/2e61c7c8-9495-4632-b70a-416cf7653be3
 
 Para análise de código, este repositório foi criado utilizando a arquitetura de componentização. Sobre a arquitetura de pastas:
 
