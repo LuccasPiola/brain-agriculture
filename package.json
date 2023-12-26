@@ -7,7 +7,7 @@
     "dev": "json-server --watch db.json --port 3004 & vite",
     "build": "tsc && vite build",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview"
+    "build:run": "tsc && vite build && vite preview & json-server --watch db.json --port 3004"
   },
   "dependencies": {
     "@emotion/react": "^11.11.1",
