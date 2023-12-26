@@ -24,7 +24,7 @@ export default function Expander({
   return (
     <Accordion
       sx={{ boxShadow: 'none', ':before': { display: 'none' } }}
-      className={`bg-background ${biggerSize ? 'w-full' : 'w-8/12'}`}
+      className={`bg-background ${biggerSize ? 'w-full' : 'w-8/12 3xl:w-1/2'}`}
       disableGutters
       defaultExpanded
     >
